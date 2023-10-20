@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Section for Header CSS */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Section for navigation buttons in the header element*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,16 +42,18 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* color for a elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* standardised font size for paragraph elements*/
 p {
     font-size: 16px;
 }
 
+/* CSS for the main image */
 .image {
     height: 800px;
     width: 100%;
@@ -58,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* Article images fixing left or right */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,12 +73,14 @@ p {
     margin-left: 25px;
 }
 
+/* Content Section CSS */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Benefits Section CSS*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,6 +92,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Aside Content for Benefits Section CSS */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -133,6 +141,7 @@ p {
     max-width: 150px;
 }
 
+/* Content Section Images CSS */
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
